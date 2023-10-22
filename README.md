@@ -7,12 +7,12 @@ Ziel dieses Projekts ist es, ein umfassendes Tutorial zur Objekterkennung in .Ne
    Hier wird das Konzept der Objekterkennung vorgestellt und erläutert, wie es sich von der Bildklassifizierung unterscheidet. Der Unterschied zwischen dem Erkennen von Objekten in einem Bild und dem Zuordnen eines Bildes zu einer bestimmten Kategorie wird hervorgehoben.
 
 3. Voraussetzungen:
-   Bevor Sie mit dem eigentlichen Tutorial beginnen, sollten die Teilnehmer:
+   Bevor Sie mit dem eigentlichen Tutorial beginnen, sollten die Teilnehmer:   
 	• Grundlegende Programmierkenntnisse in .Net besitzen, vorzugsweise in C#.
 	• Mit der Nutzung von GitHub vertraut sein und wissen, wie bereitgestellte Software installiert wird.
 	• Zugriff auf Bilder für das Training (Dataset) haben.
 	
-4. Einführung in VOTT (Visual Object Tagging Tool):   
+5. Einführung in VOTT (Visual Object Tagging Tool):   
 Die Teilnehmer werden in dieses Tool eingeführt, das zur Annotation von Bildern für Trainingszwecke verwendet wird.
 
 6. Einführung in den ML.Net Model Builder:   
